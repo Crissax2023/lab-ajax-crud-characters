@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "name": "patricio",
+      "occupation": "dormie",
+      "weapon": "sdf",
+      "id": 3
+    },
+    {
+      "occupation": "",
+      "name": "",
+      "weapon": "",
+      "iscartoon": "on",
+      "id": 4
+    },
+    {
+      "occupation": "",
+      "name": "",
+      "weapon": "",
+      "iscartoon": "on",
+      "id": 5
+    },
+    {
+      "occupation": "",
+      "name": "",
+      "weapon": "",
+      "iscartoon": "on",
+      "id": 6
+    },
+    {
+      "occupation": "s",
+      "name": "S",
+      "weapon": "s",
+      "iscartoon": "on",
+      "id": 7
+    }
+  ]
+}
